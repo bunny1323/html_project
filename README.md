@@ -1,7 +1,7 @@
 # Distraction-Free YouTube (HTML Mini Project)
 
 A simple distraction-free YouTube experience built using HTML.  
-This is my first mini project using **HTML** that provides clean, focused pages without recommended video clutter. 1
+This is my first mini project using **HTML** that provides clean, focused pages without recommended video clutter.
 
 ---
 
